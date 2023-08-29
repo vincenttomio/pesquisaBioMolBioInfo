@@ -13,7 +13,7 @@ Certifique-se de ter o Python instalado em seu sistema. O script foi desenvolvid
 2. Execute o script através do terminal ou de um ambiente de desenvolvimento Python.
 
    ```bash
-   python nome_do_script.py
+   python col_script.py 
    ```
 
 3. O script processará os arquivos .fas encontrados na pasta e criará um diretório chamado "output" (se ainda não existir) para armazenar os resultados processados.
